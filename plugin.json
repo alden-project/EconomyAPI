@@ -1,0 +1,11 @@
+{
+	"name": "EconomyAPI",
+	"version": "1.0.0",
+	"description": "Core economy system for alden-bot",
+	"author": "finntrannn",
+	"main": "src/main.ts",
+	"apiVersion": "1.0.0",
+	"permissions": {
+		"economy.admin": 3
+	}
+}
